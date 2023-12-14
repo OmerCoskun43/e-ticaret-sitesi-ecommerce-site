@@ -1,0 +1,20 @@
+.new-collections {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* padding: 1rem 4rem; */
+  margin: 1rem 6rem;
+
+  & h1 {
+    color: black;
+    font-weight: bold;
+  }
+
+  & .collections {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2rem;
+  }
+}
