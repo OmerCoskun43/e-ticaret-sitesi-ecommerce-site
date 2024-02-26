@@ -1,4 +1,6 @@
 # https://e-ticaret-sitesi-e-commerce-site.netlify.app/
+![CPT2402261129-1341x633](https://github.com/OmerCoskun43/e-ticaret-sitesi-ecommerce-site/assets/144324576/8ff08fa5-adf1-46ec-91f2-39f81efb1ca0)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
